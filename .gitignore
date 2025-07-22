@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# Except for the following directories and files
+!.gitignore
+!README.md
+!app/
+!app/**
